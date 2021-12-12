@@ -2,7 +2,7 @@
 [play here](https://vandana3869.github.io/Simon_game/)
 
 How to play?
-1-player Game
+1-player Game \n
 Slide the ON/OFF switch to ON, the Game Selector switch to "1" and the Skill Level switch to 1,2, 3 or 4.
 
 Press the START button. Simon will give the first signal. Repeat the signal by pressing the same color lens.
@@ -16,5 +16,5 @@ Continue playing as long as you can repeat each sequence of sig- nals correctly.
 If you fail to repeat a sequence exactly, or if you take more than 5 seconds to repeat a signal, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.
 
 
-Object of the Game
+Object of the Game: 
 Correctly repeat a longer and longer sequence of signals.
