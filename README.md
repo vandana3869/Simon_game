@@ -1,6 +1,6 @@
 # Simon_game
 [play here](https://vandana3869.github.io/Simon_game/)
-
+![Screenshot 2021-12-12 141615](https://user-images.githubusercontent.com/84574563/145706078-887c06ce-7f33-4044-9cf6-c395e9e282ee.png)
 How to play?
 1-player Game \n
 Slide the ON/OFF switch to ON, the Game Selector switch to "1" and the Skill Level switch to 1,2, 3 or 4.
